@@ -2,7 +2,7 @@
 Point In Box
 **********************************
 
-.. figure:: image.png
+.. figure:: point-in-box.png
     :figclass: figure
     :class: figure-img img-fluid
 
